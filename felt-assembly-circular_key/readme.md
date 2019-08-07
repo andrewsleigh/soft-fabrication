@@ -6,14 +6,16 @@ I used 3mm birch plywood
 
 Laser settings: 
 
-|    Speed:, 10 %     |
-|    Power:, 70 %     |
-| Frequency:, 2500 Hz |
+|    Speed| 10 %     |
+|    Power | 70 %     |
+| Frequency | 2500 Hz |
+
 I experimented with different styles to accommodate (in different permutations) a lamp holder, a different numbers and height of tabs, cutouts for the dowel rod, and for overlapping fabric. 
 
 ![](IMG_2634.jpg)
 
 With stiffened felt in articular, the key forms a strong hold. 
+
 ![](IMG_2633.jpg)
 
 The image below shows the affordances made for the distortion in the fabric caused by the dowel rod, and the extra thickness in one area caused by the overlap.
