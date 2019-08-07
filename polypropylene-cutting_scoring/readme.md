@@ -16,6 +16,7 @@ After many tests, gradually increasing the power of the laser, I’ve found thes
 |   Speed   |  50 %   |
 |   Power   |  90 %   |
 | Frequency | 5000 Hz |
+
 ### Scoring
 
 |   Speed   |  50 %   |
