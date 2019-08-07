@@ -40,3 +40,4 @@ I tried another test cutting out circles around the 4 corners to allow for easie
 ## Files
 
 
+[folding-box-5mm-stiff-felt.eps](folding-box-5mm-stiff-felt.eps)

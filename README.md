@@ -18,8 +18,6 @@ Working with soft materials in the fablab.
 ## Joining, Assembly
 [Felt — Circular Key](felt-assembly-circular_key)
 
-[Felt — Linking Keys](felt-joining-linking_keys)
-
 [Felt — Dowel and Pills](felt-joining-dowel-and-pills)
 
 [Felt — Dowel and Slots](felt-joining-dowel-and-slots)
