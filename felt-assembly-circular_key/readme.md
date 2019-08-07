@@ -5,10 +5,10 @@ This key is designed to provide a rigid circular frame around which fabric can b
 I used 3mm birch plywood
 
 Laser settings: 
-Speed: 10 %
-Power: 70 % 
-Frequency: 2500 Hz 
 
+|    Speed:, 10 %     |
+|    Power:, 70 %     |
+| Frequency:, 2500 Hz |
 I experimented with different styles to accommodate (in different permutations) a lamp holder, a different numbers and height of tabs, cutouts for the dowel rod, and for overlapping fabric. 
 
 ![](IMG_2634.jpg)
