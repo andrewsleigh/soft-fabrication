@@ -1,5 +1,5 @@
 # Felt — Joining — Linking Keys
-I tried two versions of this linking key to join too layers of fabric.
+I tried several versions of this linking key to join two layers of fabric.
 
 ![](IMG_2743.jpg)
 
