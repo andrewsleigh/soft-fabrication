@@ -20,11 +20,11 @@ Working with soft materials in the fablab.
 
 [Felt — Linking Keys](felt-joining-linking_keys)
 
-[Felt — Joining — Dowel and Pills](felt-joining-dowel-and-pills)
+[Felt — Dowel and Pills](felt-joining-dowel-and-pills)
 
-[Felt — Joining — Dowel and Slots](felt-joining-dowel-and-slots)
+[Felt — Dowel and Slots](felt-joining-dowel-and-slots)
 
-[Felt — Joining — Linking Keys](felt-joining-linking_keys)
+[Felt — Linking Keys](felt-joining-linking_keys)
 
 * I tried several versions of this linking key to join two layers of fabric.
 
@@ -34,8 +34,8 @@ Working with soft materials in the fablab.
 
 * A net that folds into a pocket, where the ribbon that ties together the two back faces also supports the weight of the pocket.
 
-[Polypropylene — Article — Folded Box](polypropylene-article-folded_box)
+[Polypropylene — Folded Box](polypropylene-article-folded_box)
 
-[Card — Article — Cone Lampshade](card-article-cone_lampshade)
+[Card — Cone Lampshade](card-article-cone_lampshade)
 
-[Felt — Article — Folded Box](felt-article-folded_box)
+[Felt — Folded Box](felt-article-folded_box)
