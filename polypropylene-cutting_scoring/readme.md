@@ -12,14 +12,15 @@ It scores very well.
 After many tests, gradually increasing the power of the laser, I’ve found these settings work adequately, though it has an unpleasant rough melted edge where cut, so maybe this could be improved.
 
 ### Cutting
-Speed 50 %
-Power 90 %
-Frequency 5000 Hz
 
+|   Speed   |  50 %   |
+|   Power   |  90 %   |
+| Frequency | 5000 Hz |
 ### Scoring
-Speed 50 %
-Power 20-30 %
-Frequency 5000 Hz
+
+|   Speed   |  50 %   |
+|   Power   | 20-30 % |
+| Frequency | 5000 Hz |
 
 ![](IMG_2714.jpg)
 ![](IMG_2650.jpg)

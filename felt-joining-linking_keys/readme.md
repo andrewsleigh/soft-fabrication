@@ -19,3 +19,9 @@ However the 3d-printed key has no flat faces, so it can’t be printed without s
 Its possible a version with a flat face could work OK too.
 
 ![](IMG_2742.jpg)
+
+
+## Files
+
+
+[linking_key_1.stl](linking_key_1.stl)
