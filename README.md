@@ -16,7 +16,7 @@ Working with soft materials in the fablab.
 
 
 ## Joining, Assembly
-[Felt — Assembly — Circular Key](felt-assembly-circular_key)
+[Felt — Circular Key](felt-assembly-circular_key)
 
 [Felt — Linking Keys](felt-joining-linking_keys)
 
@@ -32,7 +32,7 @@ Working with soft materials in the fablab.
 
 [Felt — Hanging Laced Pocket](felt-article-hanging_laced_pocket)
 
-* A net that folds into a pocket, where the ribbon that ties together the two back faces also supports the weight of the pocket.
+<!-- A net that folds into a pocket, where the ribbon that ties together the two back faces also supports the weight of the pocket. -->
 
 [Polypropylene — Folded Box](polypropylene-article-folded_box)
 
