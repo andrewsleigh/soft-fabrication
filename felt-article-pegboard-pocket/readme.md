@@ -30,7 +30,9 @@ These are assembled and fixed with pegs that push through holes on both layers o
 
 ![](IMG_2836.jpg)
 
-I’ve covered fabrication of the pegs elsewhere: [3D Printing – Pegs Links and Clips](../3d-printing-pegs-links-and-clips)
+I’ve covered fabrication of the pegs elsewhere: 
+* [3D Printing – Pegs Links and Clips](../3d-printing-pegs-links-and-clips)
+* [Casting — Pegs Links and Clips](casting-pegs-links-and-clips)
 
 ## Files
 
