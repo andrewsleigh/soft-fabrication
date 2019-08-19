@@ -1,4 +1,4 @@
-# Felt — Joining — Dowel and Slots
+# Joining — Dowel and Slots
 Threading the dowel through pill-shaped holes in the felt caused too much distortion of the fabric. Cutting slots across the direction of the dowel allows the fabric to conform with less distortion.
 
 ## Test 1 — 6 mm dowel, 12 mm slots

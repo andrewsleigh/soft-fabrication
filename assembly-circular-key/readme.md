@@ -1,4 +1,4 @@
-# Felt — Assembly — Circular Key
+# Assembly — Circular Key
 
 This key is designed to provide a rigid circular frame around which fabric can be wrapped, and to lock it in place with tabs that protrude through slots cut in the fabric.
 

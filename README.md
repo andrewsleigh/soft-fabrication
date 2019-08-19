@@ -7,7 +7,7 @@ Working with soft materials in the fablab.
 
 [Felt — Cutting and Scoring](felt-cutting-and-scoring)
 
-[Polypropylene (0.8 mm) — Cutting and Scoring ](polypropylene-cutting_scoring)
+[Polypropylene (0.8 mm) — Cutting and Scoring ](polypropylene-cutting-scoring)
 
 [Card — Cutting](card-cutting)
 
@@ -16,26 +16,26 @@ Working with soft materials in the fablab.
 
 
 ## Joining, Assembly
-[Felt — Circular Key](felt-assembly-circular_key)
+[Circular Key](assembly-circular-key)
 
-[Felt — Dowel and Pills](felt-joining-dowel-and-pills)
+[Dowel and Pills](joining-dowel-and-pills)
 
-[Felt — Dowel and Slots](felt-joining-dowel-and-slots)
+[Dowel and Slots](joining-dowel-and-slots)
 
-[Felt — Linking Keys](felt-joining-linking_keys)
+[Linking Keys](joining-linking-keys)
 
-[3D Printing — Pegs Links and Clips](3d-printing_pegs-links-and-clips)
+[3D Printing — Pegs Links and Clips](3d-printing-pegs-links-and-clips)
 
 <!-- * I tried several versions of this linking key to join two layers of fabric. -->
 
 ## Articles, Objects, Products
 
-[Felt — Hanging Laced Pocket](felt-article-hanging_laced_pocket)
+[Felt — Hanging Laced Pocket](felt-article-hanging-laced-pocket)
 
 <!-- A net that folds into a pocket, where the ribbon that ties together the two back faces also supports the weight of the pocket. -->
 
-[Polypropylene — Folded Box](polypropylene-article-folded_box)
+[Polypropylene — Folded Box](polypropylene-article-folded-box)
 
-[Card — Cone Lampshade](card-article-cone_lampshade)
+[Card — Cone Lampshade](card-article-cone-lampshade)
 
-[Felt — Folded Box](felt-article-folded_box)
+[Felt — Folded Box](felt-article-folded-box)
