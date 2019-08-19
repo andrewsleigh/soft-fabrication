@@ -13,7 +13,6 @@ I switched to acrylic, but is too brittle in this design. The first version (top
 By comparison, a commercial injection-moulded ABS(?) flexure will last for many thousands of uses.
 
 ![](IMG_2779.jpg)
-![](IMG_2780.jpg)
 
 I tried a quick test 3D-printing the same design in PLA. It is certainly more flexile than MDF or acrylic, but I suspect the behaviour of the flexure will very considerably depending on print density and infill patterns, so more tests are needed here.
 
@@ -23,5 +22,5 @@ I tried a quick test 3D-printing the same design in PLA. It is certainly more fl
 ## Files
 
 * [3d-print-flexure-1.stl](3d-print-flexure-1.stl)
-* [flexure-1clip-1.dxf](flexure-1clip-1.dxf)
-* [flexure-1clip-1.eps](flexure-1clip-1.eps)
+* [flexure-clip-1.dxf](flexure-clip-1.dxf)
+* [flexure-clip-1.eps](flexure-clip-1.eps)
