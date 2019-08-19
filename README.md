@@ -26,6 +26,8 @@ Working with soft materials in the fablab.
 
 [Flexure Clips](joining-flexure-links)
 
+[Joining — Mating fasteners](joining-mating-fasteners)
+
 [3D Printing — Pegs Links and Clips](3d-printing-pegs-links-and-clips)
 
 <!-- * I tried several versions of this linking key to join two layers of fabric. -->
