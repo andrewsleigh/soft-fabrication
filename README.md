@@ -2,6 +2,8 @@
 
 Working with soft materials in the fablab.
 
+![IMG_2825.jpg](IMG_2825.jpg)
+
 
 ## Cutting, Scoring
 
