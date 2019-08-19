@@ -1,5 +1,6 @@
-# Casting Pegs
-As an alternative to 3D printing plastic connectors I wanted to try casting them in resin.
+# Casting — Pegs Links and Clips
+
+As an alternative to [3D printing plastic connectors](../3d-printing-pegs-links-and-clips) I wanted to try casting them in resin.
 
 In Fusion 360, I designed a 2-part pre-mould to be milled from wax. The part is a small peg with a 1 mm slot cut in the shaft to allow the two halves to flex and squeeze together. Each (identical) half of the pre-mould features half of the peg (or half of 2 pegs laid out end-to-end) with a 1 mm rectangular raised plane occupying the space of the slot. There are also posts for pour and vent holes in the mould.
 
