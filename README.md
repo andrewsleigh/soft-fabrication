@@ -24,6 +24,8 @@ Working with soft materials in the fablab.
 
 [Felt — Linking Keys](felt-joining-linking_keys)
 
+[3D Printing – Pegs Links and Clips](3d-printing_pegs-links-and-clips)
+
 <!-- * I tried several versions of this linking key to join two layers of fabric. -->
 
 ## Articles, Objects, Products
