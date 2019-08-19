@@ -5,11 +5,11 @@ Working with soft materials in the fablab.
 
 ## Cutting, Scoring
 
-[Felt — Cutting and Scoring](felt-cutting-and-scoring)
-
-[Polypropylene (0.8 mm) — Cutting and Scoring ](polypropylene-cutting-scoring)
-
-[Card — Cutting](card-cutting)
+<div class="grid">
+* [Felt — Cutting and Scoring](felt-cutting-and-scoring)
+* [Polypropylene (0.8 mm) — Cutting and Scoring ](polypropylene-cutting-scoring)
+* [Card — Cutting](card-cutting)
+</div>
 
 
 ## Forming, Deforming
