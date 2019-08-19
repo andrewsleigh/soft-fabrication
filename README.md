@@ -38,6 +38,8 @@ Working with soft materials in the fablab.
 
 <!-- A net that folds into a pocket, where the ribbon that ties together the two back faces also supports the weight of the pocket. -->
 
+[Felt – Pegboard Pocket](felt-article-pegboard-pocket)
+
 [Polypropylene — Folded Box](polypropylene-article-folded-box)
 
 [Card — Cone Lampshade](card-article-cone-lampshade)
