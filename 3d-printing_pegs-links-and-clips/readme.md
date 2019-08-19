@@ -1,4 +1,4 @@
-# 3D Printing – Pegs Links and Clips
+# 3D Printing — Pegs Links and Clips
 
 Plastic connectors are ubiquitous in mass manufacturing, as clips, flexures, screws, etc. 
 
