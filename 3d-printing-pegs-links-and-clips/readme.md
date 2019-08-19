@@ -71,3 +71,15 @@ This made a much bigger difference to quality, though it did also slow down prin
 They still need cleanup after printing, but this an improvement. 
 
 In the meantime, I’m also looking at other ways to fabricate these parts, specifically milling a pre-mould, casting a silicone mould and then casting resin parts from that.
+
+
+## Further reading
+This article – [How to design Snap-fit Joints for 3D Printing](https://www.3dhubs.com/knowledge-base/how-design-snap-fit-joints-3d-printing) – has lots of good pointers, particularly on printing methods:
+
+> FDM — Cheap and effective way of manufacturing snap-fit connections but lower accuracy than other printing methods. When printing with FDM it is recommended to use strain resistant materials such as ABS, Nylon and TPU.
+> SLS — SLS is suitable for printing functional snap-fit prototypes or end use parts that will be opened and closed many times. For maximum tear resistance consider using an SLS Nylon.
+
+Also see:
+* <http://web.mit.edu/2.75/resources/random/Snap-Fit%20Design%20Manual.pdf>
+* <http://fab.cba.mit.edu/classes/S62.12/people/vernelle.noel/Plastic_Snap_fit_design.pdf>
+
